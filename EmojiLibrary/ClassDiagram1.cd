@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmojiLibrary.Animal">
+    <Position X="14.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAACAQAAEgEAAAAAAAAAEAIAAAAACAAAAABA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiLibrary.Face">
+    <Position X="12.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAEgABAAAAAABEEAIARAAACAgAAABA=</HashCode>
+      <FileName>Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiLibrary.Smiling">
+    <Position X="12.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAEgAAAAAAAAAAEAIAEAAACBAAAABA=</HashCode>
+      <FileName>Smiling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiLibrary.Emoji">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgCAAAACgAAQEgAAAAAQAAAAEAMAAAAACABAAABA=</HashCode>
+      <FileName>Emoji.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

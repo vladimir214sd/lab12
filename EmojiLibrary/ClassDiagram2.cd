@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmojiLibrary.TPoint&lt;T&gt;">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAAAAAAAAAABAACACAAAAAAAA=</HashCode>
+      <FileName>TPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiLibrary.Point&lt;T&gt;">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAAAAJAAEAAAAAAAAAA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiLibrary.MyCollection&lt;T&gt;">
+    <Position X="12.5" Y="10" Width="1.5" />
+    <InheritanceLine Type="EmojiLibrary.MyList&lt;T&gt;" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.375" Y="9.564" />
+        <Point X="13.375" Y="10" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEIAAkAAAAAAABAQDAAABAAAAAAAAAAECAAAAABQIAA=</HashCode>
+      <FileName>MyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmojiLibrary.MyEnumerator&lt;T&gt;">
+    <Position X="14" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAAAACAAgAAgAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>MyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmojiLibrary.MyHashTable&lt;T&gt;">
+    <Position X="14.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAABABAAAAAAgQCgAAQAAAEBAAAAIAAAAA=</HashCode>
+      <FileName>MyHashTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiLibrary.MyList&lt;T&gt;">
+    <Position X="12.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAABCAAAABAAAFAAAAgQAAIAAAAAEBAEAAAAAAAA=</HashCode>
+      <FileName>MyList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiLibrary.MyTree&lt;T&gt;">
+    <Position X="18" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAAAABQAAMABAAihAQAIAAEAAAAAAABAAIAAAA=</HashCode>
+      <FileName>MyTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
